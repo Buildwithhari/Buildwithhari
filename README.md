@@ -1,27 +1,134 @@
 <h1 align="center">Hi 👋, I'm Hari Kiran</h1>
-<h3 align="center">MCA Artificial Intelligence & Machine Learning Student | AI/ML • NLP • Computer Vision</h3>
 
-- 🔭 I’m currently working on **AI/ML and intelligent software projects**
+<h3 align="center">
+MCA Artificial Intelligence & Machine Learning Student
+</h3>
 
-- 🌱 I’m currently learning **Deep Learning, NLP and Big Data Analytics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Buildwithhari?tab=repositories](https://github.com/Buildwithhari?tab=repositories)
-
-- 💬 Ask me about **Python, Machine Learning, NLP, Computer Vision**
-
-- 📫 How to reach me **harikiran0074@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hari-kiran-s-985951274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kiran-s-985951274" height="30" width="40" /></a>
-<a href="https://instagram.com/hariiiii_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariiiii_08" height="30" width="40" /></a>
+<p align="center">
+  AI/ML • Deep Learning • NLP • Computer Vision • Intelligent Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Buildwithhari">
+    <img src="https://img.shields.io/badge/GitHub-Buildwithhari-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hari-kiran-s-985951274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Kiran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harikiran0074@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwithhari&show_icons=true&locale=en&layout=compact" alt="buildwithhari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buildwithhari&show_icons=true&locale=en" alt="buildwithhari" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithhari&" alt="buildwithhari" /></p>
+- 🎓 Pursuing **MCA in Artificial Intelligence & Machine Learning**
+- 🔭 Currently building **AI/ML and intelligent software projects**
+- 🌱 Learning **Deep Learning, NLP and Big Data Analytics**
+- 💬 Interested in **Machine Learning, NLP, Computer Vision and AI-powered systems**
+- 🚀 Focused on turning AI concepts into practical applications
+- 📂 Explore all my projects **[here](https://github.com/Buildwithhari?tab=repositories)**
+
+---
+
+## 🧠 AI & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+## 💻 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,mysql,git,github" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+<p align="left">
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-Agentic%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Healthcare No-Show Prediction
+Machine learning project focused on predicting patient appointment no-shows using healthcare data and predictive analytics.
+
+🔗 **[View Repository](https://github.com/Buildwithhari/Healthcare-NoShow-Prediction)**
+
+---
+
+### 🛡️ Women Safety – VoiceSOS
+Voice-based emergency assistance project developed for a women safety hackathon.
+
+🔗 **[View Repository](https://github.com/Buildwithhari/Women-Safety-VoiceSOS)**
+
+---
+
+### ☕ Lost & Found Management System
+Java-based system designed to manage and track lost and found items.
+
+🔗 **[View Repository](https://github.com/Buildwithhari/Lost-Found-Management-System)**
+
+---
+
+### 🌐 Portfolio
+Personal portfolio showcasing my projects, technical skills and development work.
+
+🔗 **[View Repository](https://github.com/Buildwithhari/Portfolio)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buildwithhari&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithhari&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Buildwithhari&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hari-kiran-s-985951274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:harikiran0074@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Buildwithhari">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning and exploring intelligent systems.</i>
+</p>
