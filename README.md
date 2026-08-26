@@ -41,26 +41,25 @@ Interested in Artificial Intelligence, Machine Learning, NLP, Computer Vision an
 
 ## 🚀 Featured Projects
 
-### 📊 Predictive Data Analytics
-[Healthcare No-Show Prediction](https://github.com/hari123kiran/Activity-1-Padv)
+### 📊 Healthcare No-Show Prediction
+[Healthcare-NoShow-Prediction](https://github.com/hari123kiran/Healthcare-NoShow-Prediction)
 
-Machine learning project analysing patient appointment no-shows using predictive analytics.
+Machine learning project for predicting patient appointment no-shows using predictive analytics and model evaluation.
 
-### 🛡️ Women Safety Project
-[Hackathon Women Safety](https://github.com/hari123kiran/hackathon-women-safety-)
+### 🛡️ Women Safety – VoiceSOS
+[Women-Safety-VoiceSOS](https://github.com/hari123kiran/Women-Safety-VoiceSOS)
 
-Technology-based solution developed as part of a hackathon focused on women's safety.
+Voice-based emergency assistance system developed for a Women Safety Hackathon.
 
-### 🎙️ VoiceSOS
-[VoiceSOS Project](https://github.com/hari123kiran/voicesos)
+### ☕ Lost & Found Management System
+[Lost-Found-Management-System](https://github.com/hari123kiran/Lost-Found-Management-System)
 
-Voice-based emergency and safety application.
+Java-based application for managing lost and found items and related records.
 
 ### 💻 Portfolio
 [My Portfolio](https://github.com/hari123kiran/iamhari.github.io)
 
 Personal portfolio showcasing my projects and technical work.
-
 ---
 
 ## 📊 GitHub Stats
