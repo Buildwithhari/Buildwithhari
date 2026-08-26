@@ -1,105 +1,27 @@
-
 <h1 align="center">Hi 👋, I'm Hari Kiran</h1>
+<h3 align="center">MCA Artificial Intelligence & Machine Learning Student | AI/ML • NLP • Computer Vision</h3>
 
-<h3 align="center">
-MCA Artificial Intelligence & Machine Learning Student
-</h3>
+- 🔭 I’m currently working on **AI/ML and intelligent software projects**
 
-<p align="center">
-Interested in Artificial Intelligence, Machine Learning, NLP, Computer Vision and building practical AI applications.
-</p>
+- 🌱 I’m currently learning **Deep Learning, NLP and Big Data Analytics**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Buildwithhari?tab=repositories](https://github.com/Buildwithhari?tab=repositories)
 
-## 👨‍💻 About Me
+- 💬 Ask me about **Python, Machine Learning, NLP, Computer Vision**
 
-- 🎓 MCA student specializing in Artificial Intelligence & Machine Learning
-- 🤖 Interested in AI, Machine Learning, NLP and Computer Vision
-- 💻 Building real-world AI and software projects
-- 📚 Currently learning Deep Learning, NLP and Big Data Analytics
-- 🚀 Interested in creating intelligent applications and AI-powered systems
+- 📫 How to reach me **harikiran0074@gmail.com**
 
----
-
-## 🛠️ Languages & Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,flask,mysql,git,github,vscode" />
-
+<a href="https://linkedin.com/in/hari-kiran-s-985951274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kiran-s-985951274" height="30" width="40" /></a>
+<a href="https://instagram.com/hariiiii_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariiiii_08" height="30" width="40" /></a>
 </p>
 
-### AI / Machine Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwithhari&show_icons=true&locale=en&layout=compact" alt="buildwithhari" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buildwithhari&show_icons=true&locale=en" alt="buildwithhari" /></p>
 
-## 🚀 Featured Projects
-
-### 📊 Healthcare No-Show Prediction
-[Healthcare-NoShow-Prediction](https://github.com/hari123kiran/Healthcare-NoShow-Prediction)
-
-Machine learning project for predicting patient appointment no-shows using predictive analytics and model evaluation.
-
-### 🛡️ Women Safety – VoiceSOS
-[Women-Safety-VoiceSOS](https://github.com/hari123kiran/Women-Safety-VoiceSOS)
-
-Voice-based emergency assistance system developed for a Women Safety Hackathon.
-
-### ☕ Lost & Found Management System
-[Lost-Found-Management-System](https://github.com/hari123kiran/Lost-Found-Management-System)
-
-Java-based application for managing lost and found items and related records.
-
-### 💻 Portfolio
-[My Portfolio](https://github.com/hari123kiran/iamhari.github.io)
-
-Personal portfolio showcasing my projects and technical work.
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hari123kiran&show_icons=true&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari123kiran&layout=compact&theme=github_dark" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hari123kiran&theme=github-dark-blue" />
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/hari123kiran">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Explore my repositories to see my projects and learning journey.
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithhari&" alt="buildwithhari" /></p>
